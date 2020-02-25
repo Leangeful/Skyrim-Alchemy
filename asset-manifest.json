@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Skyrim-Alchemy/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/Skyrim-Alchemy/static/js/main.3c2d6f95.chunk.js",
+    "main.js.map": "/Skyrim-Alchemy/static/js/main.3c2d6f95.chunk.js.map",
+    "runtime-main.js": "/Skyrim-Alchemy/static/js/runtime-main.6df2bc47.js",
+    "runtime-main.js.map": "/Skyrim-Alchemy/static/js/runtime-main.6df2bc47.js.map",
+    "static/js/2.132559f1.chunk.js": "/Skyrim-Alchemy/static/js/2.132559f1.chunk.js",
+    "static/js/2.132559f1.chunk.js.map": "/Skyrim-Alchemy/static/js/2.132559f1.chunk.js.map",
+    "index.html": "/Skyrim-Alchemy/index.html",
+    "precache-manifest.f386977cc99de116983e93847b32fbef.js": "/Skyrim-Alchemy/precache-manifest.f386977cc99de116983e93847b32fbef.js",
+    "service-worker.js": "/Skyrim-Alchemy/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/Skyrim-Alchemy/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.132559f1.chunk.js.LICENSE.txt": "/Skyrim-Alchemy/static/js/2.132559f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6df2bc47.js",
+    "static/js/2.132559f1.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.3c2d6f95.chunk.js"
+  ]
+}
